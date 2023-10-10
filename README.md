@@ -1,4 +1,4 @@
-#Desafio de projeto sobre Git/GitHub da DIO
+## Desafio de projeto sobre Git/GitHub da DIO
 
 Olá meu nome é Victor, e esse é meu primeiro repositório.
 
